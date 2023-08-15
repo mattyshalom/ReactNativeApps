@@ -4,3 +4,9 @@ Expo tools.
 Google map API
 Google font.
 React Navigation.
+
+feactures used for the react Native:
+1. React Navication
+2. expo install of react-native-screen, react-native-safe-area-context
+3. react-native/stack
+4. react-native/bottom-tabs
